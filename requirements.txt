@@ -1,0 +1,7 @@
+networkx==2.4
+yagmail==0.11.224
+dgl==0.4.3post2
+chemo_standardizer==0.1.7
+imbalanced_learn==0.6.2
+rdkit==2020.03.1
+standardiser==0.1.9
