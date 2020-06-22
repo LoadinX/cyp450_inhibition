@@ -13,7 +13,7 @@ from performance_evaluation import performance_function,sp
 import DGL_GCN as dl
 from sklearn_models import build_sklearn_model,get_performance
 
-from sklearn.externals import joblib
+import joblib
 from sklearn.model_selection import train_test_split
 import torch
 import time
